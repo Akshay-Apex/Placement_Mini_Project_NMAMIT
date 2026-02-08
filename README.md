@@ -1,1 +1,1 @@
-# Placement-Mini-Project-Nitte 
+# Placement_Mini_Project_NMAMIT
